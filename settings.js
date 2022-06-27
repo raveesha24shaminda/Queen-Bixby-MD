@@ -19,18 +19,18 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94711421243']
-global.premium = ['94711421243']
-global.ownernomer = '94711421243'
-global.ownername = 'Dark Alpha'
-global.botname = 'Bixby MD'
-global.footer = ' Qᴜᴇᴇɴ ʙɪxʙʏ ᴘᴜʙʟɪᴄ ᴇᴅɪᴛɪᴏɴ.'
-global.ig = 'https://github.com/darkalphaxteam'
+global.owner = ['94756024770']
+global.premium = ['94756024770']
+global.ownernomer = '94756024770'
+global.ownername = 'Raveesha Shaminda'
+global.botname = '𝚂𝚄𝙿𝙴𝚁 𝙿𝙾𝚆𝙴𝚁ᴿᴰ'
+global.footer = ' 𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝚂𝚄𝙿𝙴𝚁 𝙿𝙾𝚆𝙴𝚁ᴿᴰ'
+global.ig = 'https://youtube.com/channel/UCbNk_i0wY4MxDAmYkQ6uhWg'
 global.region = 'India, South India, Kerala'
-global.sc = 'https://github.com/darkalphaxteam/Queen-Bixby-MD'
-global.myweb = 'https://youtube.com/channel/UCvpyOCBCaBSCdv4QolnO0WQ'
-global.packname = 'Queen Bixby MD'
-global.author = 'Thinura '
+global.sc = 'https://youtube.com/channel/UCbNk_i0wY4MxDAmYkQ6uhWg'
+global.youtube = 'https://youtube.com/channel/UCbNk_i0wY4MxDAmYkQ6uhWg'
+global.packname = '🤴𝚂𝚄𝙿𝙴𝚁 𝙿𝙾𝚆𝙴𝚁ᴿᴰ👸'
+global.author = 'R.S.D '
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '🚢'
